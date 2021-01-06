@@ -1,0 +1,46 @@
+header{
+  width: 100%;
+  text-align: center;
+  margin: 0 auto;
+  padding: 20px 0;
+  border-bottom: solid;
+}
+
+.nav-list{
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+  border-bottom: solid;
+}
+
+.nav-list-item{
+  list-style: none;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+main{
+  text-align: center;
+  padding: 50px 0;
+}
+
+.content div{
+  height: 200px;
+  width: 200px;
+}
+
+.e6ffe9{
+  background-color: #e6ffe9;
+}
+
+footer{
+  width: 100%;
+  height: 120px;
+  background-color: gray;
+  text-align: center;
+  line-height: 120px;
+}
+
+.footer-text{
+  color:  #fff;
+}
